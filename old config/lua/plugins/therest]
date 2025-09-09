@@ -1,0 +1,5 @@
+fugative.lua
+lsp.lua
+nvim-cmp.lua
+telescope.lua
+treesitter.lua
