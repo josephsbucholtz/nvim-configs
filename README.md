@@ -1,2 +1,2 @@
-# nivm-configs
+# nvim-configs
 My setup
