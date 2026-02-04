@@ -63,7 +63,6 @@ nnoremap <leader>rcpp :w<CR>:!g++ -o %:r % && ./%:r<CR>
 " =========================
 " Plugins
 " =========================
-" (none for now)
 
 
 " =========================
@@ -72,6 +71,7 @@ nnoremap <leader>rcpp :w<CR>:!g++ -o %:r % && ./%:r<CR>
 
 " Cursor style (Vim can't do vim.opt.guicursor="", but this is close-ish)
 set guicursor=
+colorscheme evening
 
 set number
 set relativenumber
